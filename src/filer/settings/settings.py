@@ -1,0 +1,1 @@
+infodir = "/var/log/filer/"

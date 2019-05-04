@@ -1,0 +1,1 @@
+from filer.observers.directoryregistryobserver.directorymanagerobserver import DirectoryManagerObserver
